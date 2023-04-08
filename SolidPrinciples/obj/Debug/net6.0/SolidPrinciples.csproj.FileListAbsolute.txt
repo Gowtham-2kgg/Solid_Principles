@@ -1,0 +1,15 @@
+/home/gowtham/Projetcs/Solid_Principles/SolidPrinciples/bin/Debug/net6.0/SolidPrinciples
+/home/gowtham/Projetcs/Solid_Principles/SolidPrinciples/bin/Debug/net6.0/SolidPrinciples.deps.json
+/home/gowtham/Projetcs/Solid_Principles/SolidPrinciples/bin/Debug/net6.0/SolidPrinciples.runtimeconfig.json
+/home/gowtham/Projetcs/Solid_Principles/SolidPrinciples/bin/Debug/net6.0/SolidPrinciples.dll
+/home/gowtham/Projetcs/Solid_Principles/SolidPrinciples/bin/Debug/net6.0/ref/SolidPrinciples.dll
+/home/gowtham/Projetcs/Solid_Principles/SolidPrinciples/bin/Debug/net6.0/SolidPrinciples.pdb
+/home/gowtham/Projetcs/Solid_Principles/SolidPrinciples/obj/Debug/net6.0/SolidPrinciples.csproj.AssemblyReference.cache
+/home/gowtham/Projetcs/Solid_Principles/SolidPrinciples/obj/Debug/net6.0/SolidPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+/home/gowtham/Projetcs/Solid_Principles/SolidPrinciples/obj/Debug/net6.0/SolidPrinciples.AssemblyInfoInputs.cache
+/home/gowtham/Projetcs/Solid_Principles/SolidPrinciples/obj/Debug/net6.0/SolidPrinciples.AssemblyInfo.cs
+/home/gowtham/Projetcs/Solid_Principles/SolidPrinciples/obj/Debug/net6.0/SolidPrinciples.csproj.CoreCompileInputs.cache
+/home/gowtham/Projetcs/Solid_Principles/SolidPrinciples/obj/Debug/net6.0/SolidPrinciples.dll
+/home/gowtham/Projetcs/Solid_Principles/SolidPrinciples/obj/Debug/net6.0/ref/SolidPrinciples.dll
+/home/gowtham/Projetcs/Solid_Principles/SolidPrinciples/obj/Debug/net6.0/SolidPrinciples.pdb
+/home/gowtham/Projetcs/Solid_Principles/SolidPrinciples/obj/Debug/net6.0/SolidPrinciples.genruntimeconfig.cache
