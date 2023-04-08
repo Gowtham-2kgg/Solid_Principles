@@ -6,18 +6,18 @@ public class LiskovSubstitution
     //so we need to define a good example below
 }
 
-public interface CreditCardUser
+public interface ICreditCardUser
 {
     string UserName { get; set; }
     string Address { get; set; }
 }
 
-public class PremiumCreditCardUser : CreditCardUser
+public class PremiumCreditCardUser : ICreditCardUser
 {
     public string UserName { get; set; }
     public string Address { get; set; }
 }
-public class reditCardUser : CreditCardUser
+public class NormalCreditCardUser : ICreditCardUser
 {
     public string UserName { get; set; }
     public string Address { get; set; }
