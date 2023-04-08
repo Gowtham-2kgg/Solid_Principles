@@ -29,7 +29,7 @@ public class CreditCard
             }
         };
     }
-    protected internal void MakePayment(CreditCard creditCard, int amount)
+    protected internal virtual void MakePayment(CreditCard creditCard, int amount)
     {
         creditCard.CreditedAmount += amount;
     }
